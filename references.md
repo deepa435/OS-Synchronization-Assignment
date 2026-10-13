@@ -14,9 +14,7 @@ The following resources can be consulted for this OS Synchronization Assignment.
 4. **Course Notes / Assignment Instructions**
    Add the title of the operating-systems notes or assignment instructions provided by your instructor.
 
-## 5. AI Assistance
-
-**OpenAI ChatGPT**
+ 5. **OpenAI ChatGPT**
 Website: https://chatgpt.com/
 
 **Purpose:** AI assistance was used to help understand operating-system synchronization concepts, clarify Java implementation approaches, organize project documentation, and prepare the HTML simulation documentation.
